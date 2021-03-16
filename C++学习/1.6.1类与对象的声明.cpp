@@ -41,6 +41,8 @@
 //	cp2->a = 23;
 //	cout << cp2->a << endl;
 //	//指针变量的声明与赋值
+//	delete cp2;
+//	//堆区空间的释放
 //
 //
 //	system("pause");
