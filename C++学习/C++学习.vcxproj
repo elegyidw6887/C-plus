@@ -199,6 +199,7 @@
     <ClCompile Include="2.12.3类内重载运算符.cpp" />
     <ClCompile Include="2.12.7输入运算符重载.cpp" />
     <ClCompile Include="2.12.8赋值运算符重载.cpp" />
+    <ClCompile Include="2.12.9下标运算符重载.cpp" />
     <ClCompile Include="2.13.0-【继承】.c" />
     <ClCompile Include="2.14.0-【其他内容】.c" />
     <ClCompile Include="2.12.4二元运算符重载.cpp" />
