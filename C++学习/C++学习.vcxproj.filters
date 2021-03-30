@@ -222,6 +222,9 @@
     <ClCompile Include="2.12.B自加自减运算符重载.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.12.C重载类型转换.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">
