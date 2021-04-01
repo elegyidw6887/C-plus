@@ -203,6 +203,7 @@
     <ClCompile Include="2.12.A重载运算符返回地址.cpp" />
     <ClCompile Include="2.12.C重载类型转换.cpp" />
     <ClCompile Include="2.13.0-【继承】.c" />
+    <ClCompile Include="2.13.1继承.cpp" />
     <ClCompile Include="2.14.0-【其他内容】.c" />
     <ClCompile Include="2.12.4二元运算符重载.cpp" />
     <ClCompile Include="2.12.5一元运算符重载.cpp" />
