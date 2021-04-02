@@ -212,6 +212,7 @@
     <ClCompile Include="2.13.7多态基本概念.cpp" />
     <ClCompile Include="2.13.8虚函数的注意点.cpp" />
     <ClCompile Include="2.13.9虚表.cpp" />
+    <ClCompile Include="2.13.A取虚表的内容.cpp" />
     <ClCompile Include="2.14.0-【其他内容】.c" />
     <ClCompile Include="2.12.4二元运算符重载.cpp" />
     <ClCompile Include="2.12.5一元运算符重载.cpp" />
