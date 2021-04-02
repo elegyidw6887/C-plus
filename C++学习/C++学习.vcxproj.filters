@@ -249,6 +249,9 @@
     <ClCompile Include="2.13.8虚函数的注意点.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.13.9虚表.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">
