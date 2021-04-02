@@ -234,6 +234,12 @@
     <ClCompile Include="2.13.3继承的构造函数调用顺序.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.13.4有参数的构造函数的继承.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
+    <ClCompile Include="2.13.5析构函数与继承.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">
