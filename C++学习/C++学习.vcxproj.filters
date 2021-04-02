@@ -255,6 +255,9 @@
     <ClCompile Include="2.13.A取虚表的内容.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.13.B虚析构.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">
