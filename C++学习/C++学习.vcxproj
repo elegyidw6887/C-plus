@@ -224,6 +224,7 @@
     <ClCompile Include="2.14.2单例模式.cpp" />
     <ClCompile Include="2.14.3异常.cpp" />
     <ClCompile Include="2.14.4内部类.cpp" />
+    <ClCompile Include="2.14.5static_cast.cpp" />
     <ClCompile Include="2.15.0-【模板】.c" />
     <ClCompile Include="2.12.B自加自减运算符重载.cpp" />
   </ItemGroup>
