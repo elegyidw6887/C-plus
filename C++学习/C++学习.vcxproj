@@ -228,6 +228,7 @@
     <ClCompile Include="2.14.6数据类型转换.cpp" />
     <ClCompile Include="2.15.0-【模板】.c" />
     <ClCompile Include="2.12.B自加自减运算符重载.cpp" />
+    <ClCompile Include="2.15.1函数模板.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c" />
