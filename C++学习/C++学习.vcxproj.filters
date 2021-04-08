@@ -294,6 +294,9 @@
     <ClCompile Include="2.15.4继承的模板.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
+    <ClCompile Include="2.15.5多态的模板.cpp">
+      <Filter>基础内容</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c">
