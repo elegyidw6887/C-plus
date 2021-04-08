@@ -233,6 +233,7 @@
     <ClCompile Include="2.15.3类模板.cpp" />
     <ClCompile Include="2.15.4继承的模板.cpp" />
     <ClCompile Include="2.15.5多态的模板.cpp" />
+    <ClCompile Include="2.15.6模板类型是类的模板.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="1.7.0-【构建函数与初始化列表】.c" />
