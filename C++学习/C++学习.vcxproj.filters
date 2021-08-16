@@ -15,294 +15,294 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.1.0-【C++概况】.c">
+    <ClCompile Include="基础\Chap1 - C++概况\【C++概况】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.2.0-【一段输出程序的基本组成】.c">
+    <ClCompile Include="基础\Chap2 - 基本输出程序\【一段输出程序的基本组成】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.3.0-【C++空间申请与释放】.c">
+    <ClCompile Include="基础\Chap3 - 空间申请与释放\【C++空间申请与释放】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.4.0-【引用】.c">
+    <ClCompile Include="基础\Chap4 - 引用\【引用】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.5.0-【C++函数特性】.c">
+    <ClCompile Include="基础\Chap5 - C++函数特性\【C++函数特性】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.6.0-【类的声明基础】.c">
+    <ClCompile Include="基础\Chap6 - 类的声明基础\【类的声明基础】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.8.0-【析构函数】.c">
+    <ClCompile Include="基础\Chap8 - 析构函数\【析构函数】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.9.0-【const成员与static成员】.c">
+    <ClCompile Include="基础\Chap9 - CONST与STATIC\【const成员与static成员】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.10.0-【拷贝构造】.c">
+    <ClCompile Include="基础\Chap10 - 拷贝构造\【拷贝构造】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.11.0-【内联函数】.c">
+    <ClCompile Include="基础\Chap11 - 内联函数\【内联函数】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.0-【运算符重载operator】.c">
+    <ClCompile Include="基础\Chap12 - 运算符重载\【运算符重载operator】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.0-【继承】.c">
+    <ClCompile Include="基础\Chap13 - 继承\【继承】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.14.0-【其他内容】.c">
+    <ClCompile Include="基础\Chap14 - 其他内容\【其他内容】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.15.0-【模板】.c">
+    <ClCompile Include="基础\Chap15 - 模板\【模板】">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.1.1C++知识点概况.cpp">
+    <ClCompile Include="基础\Chap1 - C++概况\1.C++知识点概况.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.2.1输出程序.cpp">
+    <ClCompile Include="基础\Chap2 - 基本输出程序\1.输出程序.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.2.2注释.cpp">
+    <ClCompile Include="基础\Chap2 - 基本输出程序\2.注释.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.2.3主函数main.cpp">
+    <ClCompile Include="基础\Chap2 - 基本输出程序\3.主函数main.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.2.4头文件.cpp">
+    <ClCompile Include="基础\Chap2 - 基本输出程序\4.头文件.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.2.5输出cout.cpp">
+    <ClCompile Include="基础\Chap2 - 基本输出程序\5.输出cout.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.2.6输出换行endl.cpp">
+    <ClCompile Include="基础\Chap2 - 基本输出程序\6.输出换行endl.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.2.7输入cin.cpp">
+    <ClCompile Include="基础\Chap2 - 基本输出程序\7.输入cin.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.2.8命名空间namespace.cpp">
+    <ClCompile Include="基础\Chap2 - 基本输出程序\8.命名空间namespace.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.3.1C与C++结构体区别.cpp">
+    <ClCompile Include="基础\Chap3 - 空间申请与释放\1.C与C++结构体区别.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.3.2new和delete.cpp">
+    <ClCompile Include="基础\Chap3 - 空间申请与释放\2.new和delete.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.3.3C和C++空间申请的区别.cpp">
+    <ClCompile Include="基础\Chap3 - 空间申请与释放\3.C和C++空间申请的区别.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.4.1引用的声明.cpp">
+    <ClCompile Include="基础\Chap4 - 引用\1.引用的声明.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.4.2其他类型的引用.cpp">
+    <ClCompile Include="基础\Chap4 - 引用\2.其他类型的引用.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.4.3引用做参数.cpp">
+    <ClCompile Include="基础\Chap4 - 引用\3.引用做参数.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.4.4交换两个变量的值.cpp">
+    <ClCompile Include="基础\Chap4 - 引用\4.交换两个变量的值.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.4.5引用与返回值.cpp">
+    <ClCompile Include="基础\Chap4 - 引用\5.引用与返回值.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.4.6增强的for循环.cpp">
+    <ClCompile Include="基础\Chap4 - 引用\6.增强的for循环.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.5.1函数参数缺省值.cpp">
+    <ClCompile Include="基础\Chap5 - C++函数特性\1.函数参数缺省值.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.5.2函数重载.cpp">
+    <ClCompile Include="基础\Chap5 - C++函数特性\2.函数重载.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.5.3函数重载注意点.cpp">
+    <ClCompile Include="基础\Chap5 - C++函数特性\3.函数重载注意点.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.5.4文件操作中预防头文件重复包含.cpp">
+    <ClCompile Include="基础\Chap5 - C++函数特性\4.文件操作中预防头文件重复包含.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.6.1类与对象的声明.cpp">
+    <ClCompile Include="基础\Chap6 - 类的声明基础\1.类与对象的声明.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.6.2访问修饰符public与private.cpp">
+    <ClCompile Include="基础\Chap6 - 类的声明基础\2.访问修饰符public与private.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.6.3访问修饰符protected.cpp">
+    <ClCompile Include="基础\Chap6 - 类的声明基础\3.访问修饰符protected.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.6.4友元.cpp">
+    <ClCompile Include="基础\Chap6 - 类的声明基础\4.友元.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.7.1构造函数.cpp">
+    <ClCompile Include="基础\Chap7 - 构建函数\1.构造函数.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.7.2构造函数的类型.cpp">
+    <ClCompile Include="基础\Chap7 - 构建函数\2.构造函数的类型.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.7.3初始化与赋值的区别.cpp">
+    <ClCompile Include="基础\Chap7 - 构建函数\3.初始化与赋值的区别.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.7.4初始化列表.cpp">
+    <ClCompile Include="基础\Chap7 - 构建函数\4.初始化列表.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.7.5引用和const的初始化.cpp">
+    <ClCompile Include="基础\Chap7 - 构建函数\5.引用和const的初始化.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.7.6数组和结构体使用初始化列表.cpp">
+    <ClCompile Include="基础\Chap7 - 构建函数\6.数组和结构体使用初始化列表.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.8.1析构函数.cpp">
+    <ClCompile Include="基础\Chap8 - 析构函数\1.析构函数.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.8.2析构函数delete和临时对象.cpp">
+    <ClCompile Include="基础\Chap8 - 析构函数\2.析构函数delete和临时对象.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.8.3malloc、free与new、delete的区别.cpp">
+    <ClCompile Include="基础\Chap8 - 析构函数\3.malloc、free与new、delete的区别.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.8.4this指针.cpp">
+    <ClCompile Include="基础\Chap8 - 析构函数\4.this指针.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.9.1常函数.cpp">
+    <ClCompile Include="基础\Chap9 - CONST与STATIC\1.常函数.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.9.2静态成员使用方法.cpp">
+    <ClCompile Include="基础\Chap9 - CONST与STATIC\2.静态成员使用方法.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="1.9.3非循环实现变量递增.cpp">
+    <ClCompile Include="基础\Chap9 - CONST与STATIC\3.非循环实现变量递增.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.10.1拷贝构造的调用情况.cpp">
+    <ClCompile Include="基础\Chap10 - 拷贝构造\1.拷贝构造的调用情况.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.10.2默认拷贝构造.cpp">
+    <ClCompile Include="基础\Chap10 - 拷贝构造\2.默认拷贝构造.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.10.3深拷贝.cpp">
+    <ClCompile Include="基础\Chap10 - 拷贝构造\3.深拷贝.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.11.1内联函数基础.cpp">
+    <ClCompile Include="基础\Chap11 - 内联函数\1.内联函数基础.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.11.2内联函数与类.cpp">
+    <ClCompile Include="基础\Chap11 - 内联函数\2.内联函数与类.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.1运算符重载基础.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\1.运算符重载基础.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.2运算符重载基础的返回值作用.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\2.运算符重载基础的返回值作用.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.3类内重载运算符.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\3.类内重载运算符.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.4二元运算符重载.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\4.二元运算符重载.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.5一元运算符重载.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\5.一元运算符重载.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.6输出运算符重载.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\6.输出运算符重载.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.7输入运算符重载.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\7.输入运算符重载.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.8赋值运算符重载.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\8.赋值运算符重载.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.9下标运算符重载.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\9.下标运算符重载.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.A重载运算符返回地址.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\10.重载运算符返回地址.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.B自加自减运算符重载.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\11.自加自减运算符重载.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.12.C重载类型转换.cpp">
+    <ClCompile Include="基础\Chap12 - 运算符重载\12.重载类型转换.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.1继承.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\1.继承.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.2继承限定词.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\2.继承限定词.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.3继承的构造函数调用顺序.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\3.继承的构造函数调用顺序.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.4有参数的构造函数的继承.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\4.有参数的构造函数的继承.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.5析构函数与继承.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\5.析构函数与继承.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.6覆盖.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\6.覆盖.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.7多态基本概念.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\7.多态基本概念.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.8虚函数的注意点.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\8.虚函数的注意点.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.9虚表.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\9.虚表.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.A取虚表的内容.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\10.取虚表的内容.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.B虚析构.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\11.虚析构.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.C纯虚函数.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\12.纯虚函数.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.13.D虚继承.cpp">
+    <ClCompile Include="基础\Chap13 - 继承\13.虚继承.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.14.1联编.cpp">
+    <ClCompile Include="基础\Chap14 - 其他内容\1.联编.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.14.2单例模式.cpp">
+    <ClCompile Include="基础\Chap14 - 其他内容\2.单例模式.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.14.3异常.cpp">
+    <ClCompile Include="基础\Chap14 - 其他内容\3.异常.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.14.4内部类.cpp">
+    <ClCompile Include="基础\Chap14 - 其他内容\4.内部类.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.14.5static_cast.cpp">
+    <ClCompile Include="基础\Chap14 - 其他内容\5.static_cast.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.14.6数据类型转换.cpp">
+    <ClCompile Include="基础\Chap14 - 其他内容\6.数据类型转换.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.15.1函数模板.cpp">
+    <ClCompile Include="基础\Chap15 - 模板\1.函数模板.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.15.2函数模板的具体化.cpp">
+    <ClCompile Include="基础\Chap15 - 模板\2.函数模板的具体化.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.15.3类模板.cpp">
+    <ClCompile Include="基础\Chap15 - 模板\3.类模板.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.15.4继承的模板.cpp">
+    <ClCompile Include="基础\Chap15 - 模板\4.继承的模板.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.15.5多态的模板.cpp">
+    <ClCompile Include="基础\Chap15 - 模板\5.多态的模板.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
-    <ClCompile Include="2.15.6模板类型是类的模板.cpp">
+    <ClCompile Include="基础\Chap15 - 模板\6.模板类型是类的模板.cpp">
       <Filter>基础内容</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="1.7.0-【构建函数与初始化列表】.c">
+    <None Include="基础\Chap7 - 构建函数\【构建函数与初始化列表】">
       <Filter>基础内容</Filter>
     </None>
   </ItemGroup>
